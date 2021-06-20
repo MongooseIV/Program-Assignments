@@ -1,0 +1,9 @@
+name="LeBron"
+age=35
+salary=37.44
+plays_basketball=True
+jersey_number="23"
+car_name="Honda"
+x=50
+my_first_name="Mingus"
+print(type(name),type(age),type(salary),type(plays_basketball),type(jersey_number),type(car_name),type(x),type(my_first_name))
